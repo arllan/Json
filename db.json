@@ -1,0 +1,23 @@
+
+{
+  "respostasA":
+  {
+  "questaoA":"A",
+  "questaoB":"C",
+  "questaoC":"D",
+  "questaoD":"D",
+  "questaoE":"A",
+  "questaoF":"C"
+  },
+  
+  "respostasB":
+  {
+  "questaoA":"B",
+  "questaoB":"B",
+  "questaoC":"A",
+  "questaoD":"D",
+  "questaoE":"A",
+  "questaoF":"C",
+  }
+  
+} 
