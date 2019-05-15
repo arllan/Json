@@ -1,4 +1,3 @@
-
 {
   "respostasA":
   {
@@ -18,6 +17,12 @@
   "questaoD":"D",
   "questaoE":"A",
   "questaoF":"C"
-  }
+  },
+  "imagem":
+  {
+   "imagem01":"https://picsum.photos/500/600",
+   "imagem02":"https://picsum.photos/1000/1000",
+   "imagem03":"https://picsum.photos/100/100"
+   }
   
-} 
+}
